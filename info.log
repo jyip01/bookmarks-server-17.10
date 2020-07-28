@@ -1,0 +1,8 @@
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"connect ECONNREFUSED 127.0.0.1:5432","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"connect ECONNREFUSED 127.0.0.1:5432","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"role \"dunder-mifflin\" does not exist","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"role \"dunder-mifflin\" does not exist","level":"error"}
